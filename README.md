@@ -11,10 +11,10 @@ In dir drone-choir-app run `npm start`
 ### Individual sound pages, the url is found at the top of the dashboard, 
 these are the individual pages the phone connects to:
 
-http://APP_URL/?low
-http://APP_URL?low-mid
-http://APP_URL/?mid-high
-http://APP_URL/?high
+- http://APP_URL/?low
+- http://APP_URL?low-mid
+- http://APP_URL/?mid-high
+- http://APP_URL/?high
 
 ^^^ For each individual pages select "Enable Audio" on the screen.
 
