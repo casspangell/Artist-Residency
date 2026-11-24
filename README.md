@@ -16,7 +16,7 @@ http://APP_URL?low-mid
 http://APP_URL/?mid-high
 http://APP_URL/?high
 
-^^^ For each individual pages select "Enable Audio" on the screen
+^^^ For each individual pages select "Enable Audio" on the screen.
 
 ### Run the program
 
