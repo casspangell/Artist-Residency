@@ -9,13 +9,13 @@ import { getSocketHttpUrl, getApiHttpUrl } from './socketConfig';
 import { io } from 'socket.io-client';
 
 const VOICE_RANGE_MAPPING = {
-  high: 'soprano',
-  'mid-high': 'alto',
-  'low-mid': 'tenor',
-  low: 'bass'
+  drone4: 'soprano',
+  drone3: 'alto',
+  drone2: 'tenor',
+  drone1: 'bass'
 };
 
-const PLAYER_PAGE_PARAMS = ['low', 'low-mid', 'mid-high', 'high'];
+const PLAYER_PAGE_PARAMS = ['drone1', 'drone2', 'drone3', 'drone4'];
 const PLAYER_PAGE_LABELS = ['Drone 1', 'Drone 2', 'Drone 3', 'Drone 4'];
 
 const getInitialSingleVoiceMode = () => {

@@ -5,7 +5,7 @@ import DroneChoirPerformer from './DroneChoirPerformer';
 import TenorPage from './TenorPage';
 import AltoPage from './AltoPage';
 
-const SINGLE_VOICE_PARAMS = ['high', 'mid-high', 'low-mid', 'low'];
+const SINGLE_VOICE_PARAMS = ['drone1', 'drone2', 'drone3', 'drone4'];
 
 function App() {
   const [currentView, setCurrentView] = useState('main');
