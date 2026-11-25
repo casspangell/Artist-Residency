@@ -31,7 +31,7 @@ The dashboard shows the address for this computer. On each phone, open one of th
 
 The phone must be on the same network as the computer.
 
-![Phone page for Drone 1, with the current note, the next note, and the waveform](photo-phone.png)
+<img src="photo-phone.png" alt="Phone page for Drone 1, with the current note, the next note, and the waveform" width="50%">
 
 *Phone page: one drone, with Enable Audio or Reload App, the current and next notes, and the waveform.*
 
