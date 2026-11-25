@@ -31,9 +31,12 @@ The dashboard shows the address for this computer. On each phone, open one of th
 
 The phone must be on the same network as the computer.
 
-<img src="photo-phone.png" alt="Phone page for Drone 1, with the current note, the next note, and the waveform" width="50%">
+<div style="display:flex; align-items:flex-start; gap:12px;">
+  <img src="photo-enable-audio.png" alt="Enable Audio prompt on the phone, with notes waiting from the dashboard" style="width:calc(50% - 6px);">
+  <img src="photo-phone.png" alt="Phone page for Drone 1, with the current note, the next note, and the waveform" style="width:calc(50% - 6px);">
+</div>
 
-*Phone page: one drone, with Enable Audio or Reload App, the current and next notes, and the waveform.*
+*Left: tap Enable Audio before the phone can play. Right: the drone page, with the current note, the next note, and the waveform.*
 
 ## Controls
 
