@@ -32,8 +32,8 @@ The dashboard shows the address for this computer. On each phone, open one of th
 The phone must be on the same network as the computer.
 
 <p>
-<img src="photo-enable-audio.png" alt="Enable Audio prompt on the phone, with notes waiting from the dashboard" width="17%" style="width:17%; vertical-align:top;">
-<img src="photo-phone.png" alt="Phone page for Drone 1, with the current note, the next note, and the waveform" width="17%" style="width:17%; vertical-align:top; margin-left:12px;">
+<img src="photo-enable-audio.png" alt="Enable Audio prompt on the phone, with notes waiting from the dashboard" width="25%" style="width:25%; vertical-align:top;">
+<img src="photo-phone.png" alt="Phone page for Drone 1, with the current note, the next note, and the waveform" width="25%" style="width:25%; vertical-align:top; margin-left:12px;">
 </p>
 
 *Left: tap Enable Audio before the phone can play. Right: the drone page, with the current note, the next note, and the waveform.*
