@@ -1,0 +1,226 @@
+{
+    "1": {
+        "duration_seconds": 32,
+        "bass": "C#2",
+        "tenor": "F#3",
+        "alto": "C#4",
+        "soprano": "D#5",
+        "max_gain": "1.0"
+    },
+    "2": {
+        "duration_seconds": 129,
+        "bass": "A#2",
+        "tenor": "F#3",
+        "alto": "F#4",
+        "soprano": "C#4",
+        "max_gain": "1.0"
+    },
+    "3": {
+        "duration_seconds": 129,
+        "bass": "D#2",
+        "tenor": "F#3",
+        "alto": "G#4",
+        "soprano": "C#5",
+        "max_gain": "1.0"
+    },
+    "4": {
+        "duration_seconds": 97,
+        "bass": "C#2",
+        "tenor": "D#3",
+        "alto": "F#4",
+        "soprano": "C#5",
+        "max_gain": "1.0"
+    },
+    "5": {
+        "duration_seconds": 97,
+        "bass": "C#2",
+        "tenor": "F#3",
+        "alto": "B4",
+        "soprano": "C#5",
+        "max_gain": "1.0"
+    },
+    "6": {
+        "duration_seconds": 98,
+        "bass": "F#3",
+        "tenor": "F3",
+        "alto": "C#4",
+        "soprano": "C5",
+        "max_gain": "1.0"
+    },
+    "7": {
+        "duration_seconds": 62,
+        "bass": "G#3",
+        "tenor": "C#3",
+        "alto": "D#4",
+        "soprano": "G#5",
+        "max_gain": "1.0"
+    },
+    "8": {
+        "duration_seconds": 62,
+        "bass": "C#3",
+        "tenor": "F3",
+        "alto": "A#4",
+        "soprano": "C#5",
+        "max_gain": "1.0"
+    },
+    "9": {
+        "duration_seconds": 32,
+        "bass": "C#3",
+        "tenor": "F#3",
+        "alto": "A#4",
+        "soprano": "D#5",
+        "max_gain": "1.0"
+    },
+    "10": {
+        "duration_seconds": 32,
+        "bass": "D#3",
+        "tenor": "G#3",
+        "alto": "C#4",
+        "soprano": "F#5",
+        "max_gain": "1.0"
+    },
+    "11": {
+        "duration_seconds": 97,
+        "bass": "C#3",
+        "tenor": "F#3",
+        "alto": "C#4",
+        "soprano": "A#5",
+        "max_gain": "1.0"
+    },
+    "12": {
+        "duration_seconds": 97,
+        "bass": "F#3",
+        "tenor": "G#4",
+        "alto": "C#4",
+        "soprano": "D#5",
+        "max_gain": "1.0"
+    },
+    "13": {
+        "duration_seconds": 60,
+        "bass": "D#3",
+        "tenor": "A#3",
+        "alto": "D#4",
+        "soprano": "A#5",
+        "max_gain": "1.0"
+    },
+    "14": {
+        "duration_seconds": 60,
+        "bass": "E4",
+        "tenor": "B4",
+        "alto": "E4",
+        "soprano": "B5",
+        "max_gain": "1.0"
+    },
+    "15": {
+        "duration_seconds": 60,
+        "bass": "E4",
+        "tenor": "G#3",
+        "alto": "C#4",
+        "soprano": "C#5",
+        "max_gain": "1.0"
+    },
+    "16": {
+        "duration_seconds": 35,
+        "bass": "D#3",
+        "tenor": "G#3",
+        "alto": "A#4",
+        "soprano": "G#4",
+        "max_gain": "1.0"
+    },
+    "17": {
+        "duration_seconds": 66,
+        "bass": "D3",
+        "tenor": "F4",
+        "alto": "F4",
+        "soprano": "A5",
+        "max_gain": "1.0"
+    },
+    "18": {
+        "duration_seconds": 24,
+        "bass": "D#3",
+        "tenor": "G#3",
+        "alto": "G#4",
+        "soprano": "D#4",
+        "max_gain": "1.0"
+    },
+    "19": {
+        "duration_seconds": 28,
+        "bass": "C#2",
+        "tenor": "D#3",
+        "alto": "F#4",
+        "soprano": "C#5",
+        "max_gain": "1.0"
+    },
+    "20": {
+        "duration_seconds": 20,
+        "bass": "D#3",
+        "tenor": "A#3",
+        "alto": "D#4",
+        "soprano": "A#5",
+        "max_gain": "1.0"
+    },
+    "21": {
+        "duration_seconds": 29,
+        "bass": "D#3",
+        "tenor": "D#3",
+        "alto": "D#4",
+        "soprano": "D#4",
+        "max_gain": "1.0"
+    },
+    "22": {
+        "duration_seconds": 32,
+        "bass": "F3",
+        "tenor": "F3",
+        "alto": "A#4",
+        "soprano": "A#4",
+        "max_gain": "1.0"
+    },
+    "23": {
+        "duration_seconds": 32,
+        "bass": "G#3",
+        "tenor": "C#3",
+        "alto": "B4",
+        "soprano": "F#4",
+        "max_gain": "1.0"
+    },
+    "24": {
+        "duration_seconds": 32,
+        "bass": "C#3",
+        "tenor": "D#3",
+        "alto": "C#4",
+        "soprano": "D#4",
+        "max_gain": "1.0"
+    },
+    "25": {
+        "duration_seconds": 32,
+        "bass": "C#3",
+        "tenor": "F3",
+        "alto": "A#4",
+        "soprano": "D#4",
+        "max_gain": "1.0"
+    },
+    "26": {
+        "duration_seconds": 146,
+        "bass": "C#2",
+        "tenor": "D#3",
+        "alto": "F#4",
+        "soprano": "C#5",
+        "max_gain": "1.0"
+    },
+    "27": {
+        "duration_seconds": 131,
+        "bass": "C3",
+        "tenor": "C3",
+        "alto": "G4",
+        "soprano": "F5",
+        "max_gain": "1.0"
+    },
+    "28": {
+        "duration_seconds": 140,
+        "bass": "A#3",
+        "tenor": "F3",
+        "alto": "A#4",
+        "soprano": "F5",
+        "max_gain": "1.0"
+    }
+}
