@@ -16,6 +16,7 @@ const VOICE_RANGE_MAPPING = {
 };
 
 const PLAYER_PAGE_PARAMS = ['low', 'low-mid', 'mid-high', 'high'];
+const PLAYER_PAGE_LABELS = ['Drone 1', 'Drone 2', 'Drone 3', 'Drone 4'];
 
 const getInitialSingleVoiceMode = () => {
   const queryParams = new URLSearchParams(window.location.search);
@@ -941,7 +942,7 @@ const DroneChoirPerformer = () => {
       {/* Master controls */}
       <div className="master-controls">
         <h2 className="dashboard-ip-heading">
-          Players:{' '}
+          Players: http://{hostIpDisplay}:{window.location.port || '3000'}/{' '}
           {PLAYER_PAGE_PARAMS.map((param, index) => {
             const port = window.location.port || '3000';
             const href = `http://${hostIpDisplay}:${port}/?${param}`;
@@ -954,7 +955,7 @@ const DroneChoirPerformer = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  {index === 0 ? href : `/?${param}`}
+                  {PLAYER_PAGE_LABELS[index]}
                 </a>
               </React.Fragment>
             );

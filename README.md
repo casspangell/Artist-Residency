@@ -24,10 +24,10 @@ The socket server listens on port 8080. The dashboard opens at http://localhost:
 
 The dashboard shows the address for this computer. On each phone, open one of these pages and tap **Enable Audio** before expecting sound:
 
-- `http://APP_URL/?low` — Drone 1
-- `http://APP_URL/?low-mid` — Drone 2
-- `http://APP_URL/?mid-high` — Drone 3
-- `http://APP_URL/?high` — Drone 4
+- Drone 1 — `http://APP_URL/?low`
+- Drone 2 — `http://APP_URL/?low-mid`
+- Drone 3 — `http://APP_URL/?mid-high`
+- Drone 4 — `http://APP_URL/?high`
 
 The phone must be on the same network as the computer.
 
