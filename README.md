@@ -1,31 +1,42 @@
-# Instructions
+# Transmission Performance System
 
-### 3 separate terminal windows:
+The dashboard controls four drones. Each phone opens one drone page and plays only that part.
 
-In dir Dashboard run `node server.js`
+## Start
 
-In dir Dashboard run `node api-server.js`
+Use two terminals in the `Dashboard` folder.
 
-In dir Dashboard run `npm start`
+```bash
+node socket-server.js
+```
 
-### Individual sound pages, the url is found at the top of the dashboard, 
-these are the individual pages the phone connects to:
+```bash
+npm start
+```
 
-- http://APP_URL/?low
-- http://APP_URL?low-mid
-- http://APP_URL/?mid-high
-- http://APP_URL/?high
+The socket server listens on port 8080. The dashboard opens at http://localhost:3000.
 
-^^^ For each individual pages select "Enable Audio" on the screen.
+## Phones
 
-### Run the program
+The dashboard shows the address for this computer. On each phone, open one of these pages and tap **Enable Audio** before expecting sound:
 
-In dir API
-	`./run_mycelial.sh`
+- `http://APP_URL/?low` — Drone 1
+- `http://APP_URL/?low-mid` — Drone 2
+- `http://APP_URL/?mid-high` — Drone 3
+- `http://APP_URL/?high` — Drone 4
 
-	Type "begin" when prompted
+The phone must be on the same network as the computer.
 
-### Debug
-Reload the page on the phone
-Press "Stop All Voices" then "Test" or "Start All Voices"
-Start and stop the processes in terminal
+## Controls
+
+- **Test** plays that drone's note for 10 seconds.
+- **Start All Voices** plays the 28 drone chords in order, then loops back to chord 1. Each phone follows its own part.
+- **Stop All Voices** fades every drone out over 5 seconds, on the dashboard and on the phones.
+
+Each chord also fades in and out over about 1.5 seconds.
+
+## If a phone is silent
+
+1. Tap **Enable Audio**, or **Reload App**.
+2. On the dashboard, press **Stop All Voices**, then **Test** or **Start All Voices**.
+3. If it is still silent, stop both terminals and start `node socket-server.js` and `npm start` again.
