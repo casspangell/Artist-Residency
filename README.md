@@ -16,6 +16,10 @@ npm start
 
 The socket server listens on port 8080. The dashboard opens at http://localhost:3000.
 
+![Dashboard with all four drones, Start All Voices, Stop All Voices, and Test](photo-dashboard.png)
+
+*Dashboard: four drones, player links, and the main controls.*
+
 ## Phones
 
 The dashboard shows the address for this computer. On each phone, open one of these pages and tap **Enable Audio** before expecting sound:
@@ -26,6 +30,10 @@ The dashboard shows the address for this computer. On each phone, open one of th
 - `http://APP_URL/?high` — Drone 4
 
 The phone must be on the same network as the computer.
+
+![Phone page for Drone 1, with the current note, the next note, and the waveform](photo-phone.png)
+
+*Phone page: one drone, with Enable Audio or Reload App, the current and next notes, and the waveform.*
 
 ## Controls
 
