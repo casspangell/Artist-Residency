@@ -14,8 +14,6 @@ node socket-server.js
 npm start
 ```
 
-The socket server listens on port 8080. The dashboard opens at http://localhost:3000.
-
 ![Dashboard with all four drones, Start All Voices, Stop All Voices, and Test](photo-dashboard.png)
 
 *Dashboard: four drones, player links, and the main controls.*
