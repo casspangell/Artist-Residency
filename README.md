@@ -40,7 +40,7 @@ The phone must be on the same network as the computer.
 
 ## Controls
 
-- **Test** plays that drone's note for 10 seconds.
+- **Test** plays a drone's note for 10 seconds.
 - **Start All Voices** plays the 28 drone chords in order, then loops back to chord 1. Each phone follows its own part.
 - **Stop All Voices** fades every drone out over 5 seconds, on the dashboard and on the phones.
 
